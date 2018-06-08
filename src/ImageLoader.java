@@ -5,6 +5,10 @@ import java.io.InputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
+/**
+ * File: ImageLoader.java
+ * @author KYakimenko 
+ */
 public class ImageLoader {
     private String source;
     private String file;
